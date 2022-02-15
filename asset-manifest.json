@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/VeronikaTan/go-it-react-01/static/css/main.b531aec5.css",
+    "main.js": "/VeronikaTan/go-it-react-01/static/js/main.73950502.js",
+    "index.html": "/VeronikaTan/go-it-react-01/index.html",
+    "main.b531aec5.css.map": "/VeronikaTan/go-it-react-01/static/css/main.b531aec5.css.map",
+    "main.73950502.js.map": "/VeronikaTan/go-it-react-01/static/js/main.73950502.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b531aec5.css",
+    "static/js/main.73950502.js"
+  ]
+}
