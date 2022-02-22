@@ -27,6 +27,10 @@ function Statistics({ title, stats }) {
   );
 }
 
+Statistics.defaultProps = {
+  stats: [],
+}
+
 Statistics.propTypes = {
   title: PropTypes.string,
 

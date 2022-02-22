@@ -24,6 +24,10 @@ function TransactionHistory({ items }) {
   );
 }
 
+TransactionHistory.defaultProps = {
+  items: [],
+}
+
 TransactionHistory.propTypes = {
   items: PropTypes.arrayOf(
     PropTypes.exact({

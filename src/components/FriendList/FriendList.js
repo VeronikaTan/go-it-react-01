@@ -15,6 +15,10 @@ function FriendList({ friends }) {
   return <ul className={s.friendsList}>{friendsListItems}</ul>;
 }
 
+FriendList.defaultProps = {
+  friends: [],
+}
+
 FriendList.propTypes = {
   friends: PropTypes.arrayOf(
     PropTypes.exact({
